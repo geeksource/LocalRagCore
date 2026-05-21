@@ -1,0 +1,8 @@
+C:\Users\MOHSIN-PC\source\repos\LocalRagCore\obj\Debug\net9.0\LocalRagCore.csproj.AssemblyReference.cache
+C:\Users\MOHSIN-PC\source\repos\LocalRagCore\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\MOHSIN-PC\source\repos\LocalRagCore\obj\Debug\net9.0\LocalRagCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOHSIN-PC\source\repos\LocalRagCore\obj\Debug\net9.0\LocalRagCore.AssemblyInfoInputs.cache
+C:\Users\MOHSIN-PC\source\repos\LocalRagCore\obj\Debug\net9.0\LocalRagCore.AssemblyInfo.cs
+C:\Users\MOHSIN-PC\source\repos\LocalRagCore\obj\Debug\net9.0\LocalRagCore.csproj.CoreCompileInputs.cache
+C:\Users\MOHSIN-PC\source\repos\LocalRagCore\obj\Debug\net9.0\LocalRagCore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MOHSIN-PC\source\repos\LocalRagCore\obj\Debug\net9.0\LocalRagCore.MvcApplicationPartsAssemblyInfo.cache

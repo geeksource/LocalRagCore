@@ -1,0 +1,6 @@
+@LocalRagCore_HostAddress = http://localhost:5070
+
+GET {{LocalRagCore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
